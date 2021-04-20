@@ -1,4 +1,4 @@
-![Martin's github stats](https://github-readme-stats.vercel.app/api?username=martinraquion)<br/>
+![Martin's github stats](https://github-readme-stats.vercel.app/api?username=martinraquion)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=martinraquion)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
